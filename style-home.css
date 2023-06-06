@@ -1,0 +1,48 @@
+
+#banner
+{
+    width: 100%;
+}
+.principal
+{
+   background: #cec5c5cc;
+   padding: 30px;
+}
+h1
+{
+   text-align: center
+}
+h2
+{
+  text-align: center;
+  font-size: 30px;
+}
+p
+{
+   text-align: center;
+}
+#mision
+{
+   font-size: 30px;
+}
+.diferencial
+{
+   background: white;
+   padding: 30px;
+}
+.items
+{
+   font-style: italic;
+}
+ul
+{
+   display: inline-block;
+   vertical-align: top;
+   width: 20%;
+   margin-right: 15%;
+
+}
+.imagendiferencial
+{
+   width: 50%;
+}
